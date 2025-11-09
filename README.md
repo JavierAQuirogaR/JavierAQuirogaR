@@ -1,6 +1,15 @@
 ## Acerca de mi 👋
-### Ingeniero de sistemas y Data Scientist
+### Ingeniero de sistemas y Data Scientist  
+
 #### Data Scientist con enfoque en gestión de proyectos tecnológicos y optimización basada en datos
+
+### Lenguajes y herramientas 🔭
+⚡ Pandas  
+⚡ NumPy  
+⚡ Scikit-learn  
+⚡ SQL  
+⚡ Python  
+
 <!--
 **JavierAQuirogaR/JavierAQuirogaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
