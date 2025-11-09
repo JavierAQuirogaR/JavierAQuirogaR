@@ -1,5 +1,6 @@
-## Hi there 👋
-
+## Acerca de mi 👋
+### Ingeniero de sistemas y Data Scientist
+#### Data Scientist con enfoque en gestión de proyectos tecnológicos y optimización basada en datos
 <!--
 **JavierAQuirogaR/JavierAQuirogaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
